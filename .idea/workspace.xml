@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58877bc0-9085-429d-beb9-baef623e9ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/nl/joeriabbo/Docker.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vars/buildImage.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/buildImage.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vars/buildJar.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/buildJar.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
